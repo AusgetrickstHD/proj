@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Exception.cpp
+  WinMain.cpp
+  Window.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\optional(82,17): warning C4244: "Initialisierung": Konvertierung von "WPARAM" in "int", möglicher Datenverlust
+  Code wird generiert...
+  WindowsProject3.vcxproj -> C:\Users\Ausge\source\repos\WindowsProject3\x64\Debug\WindowsProject3.exe
